@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\bin\Debug\net8.0\Shapes_Ejercicio2.exe
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\bin\Debug\net8.0\Shapes_Ejercicio2.deps.json
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\bin\Debug\net8.0\Shapes_Ejercicio2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\bin\Debug\net8.0\Shapes_Ejercicio2.dll
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\bin\Debug\net8.0\Shapes_Ejercicio2.pdb
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.dll
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\refint\Shapes_Ejercicio2.dll
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.pdb
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\Shapes_Ejercicio2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programación II\Shapes_Ejercicio2\Shapes_Ejercicio2\obj\Debug\net8.0\ref\Shapes_Ejercicio2.dll

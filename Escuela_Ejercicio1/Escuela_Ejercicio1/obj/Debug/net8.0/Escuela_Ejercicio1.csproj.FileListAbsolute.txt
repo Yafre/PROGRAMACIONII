@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\bin\Debug\net8.0\Escuela_Ejercicio1.exe
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\bin\Debug\net8.0\Escuela_Ejercicio1.deps.json
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\bin\Debug\net8.0\Escuela_Ejercicio1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\bin\Debug\net8.0\Escuela_Ejercicio1.dll
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\bin\Debug\net8.0\Escuela_Ejercicio1.pdb
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.dll
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\refint\Escuela_Ejercicio1.dll
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.pdb
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\Escuela_Ejercicio1.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programación II\Escuela_Ejercicio1\Escuela_Ejercicio1\obj\Debug\net8.0\ref\Escuela_Ejercicio1.dll
