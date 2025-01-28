@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\bin\Debug\net8.0\Salario_Empleados.exe
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\bin\Debug\net8.0\Salario_Empleados.deps.json
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\bin\Debug\net8.0\Salario_Empleados.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\bin\Debug\net8.0\Salario_Empleados.dll
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\bin\Debug\net8.0\Salario_Empleados.pdb
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.sourcelink.json
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.dll
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\refint\Salario_Empleados.dll
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.pdb
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\Salario_Empleados.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programación II\Salario_Empleados\Salario_Empleados\obj\Debug\net8.0\ref\Salario_Empleados.dll

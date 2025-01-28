@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Programaci\u00F3n II\\Salario_Empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A962603F-69CA-4426-B4E7-DEE16B4005A7}|Salario_Empleados\\Salario_Empleados.csproj|c:\\users\\lenovo\\desktop\\programaci\u00F3n ii\\salario_empleados\\salario_empleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962603F-69CA-4426-B4E7-DEE16B4005A7}|Salario_Empleados\\Salario_Empleados.csproj|solutionrelative:salario_empleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Programaci\u00F3n II\\Salario_Empleados\\Salario_Empleados\\Program.cs",
+              "RelativeDocumentMoniker": "Salario_Empleados\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Programaci\u00F3n II\\Salario_Empleados\\Salario_Empleados\\Program.cs*",
+              "RelativeToolTip": "Salario_Empleados\\Program.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA6wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:47:34.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
