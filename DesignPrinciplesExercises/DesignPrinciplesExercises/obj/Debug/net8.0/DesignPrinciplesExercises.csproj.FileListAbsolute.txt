@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.sourcelink.json
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\bin\Debug\net8.0\DesignPrinciplesExercises.exe
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\bin\Debug\net8.0\DesignPrinciplesExercises.deps.json
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\bin\Debug\net8.0\DesignPrinciplesExercises.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\bin\Debug\net8.0\DesignPrinciplesExercises.dll
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\bin\Debug\net8.0\DesignPrinciplesExercises.pdb
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.dll
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\refint\DesignPrinciplesExercises.dll
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.pdb
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\DesignPrinciplesExercises.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Programación II\DesignPrinciplesExercises\DesignPrinciplesExercises\obj\Debug\net8.0\ref\DesignPrinciplesExercises.dll
